@@ -1,50 +1,26 @@
-<div align = "center">
+<h1 align="center">Hi 👋, I'm ASH</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+ASH!%22;%22Welcome+to+my+profile!%22" alt="Hello it's ASH" />
+- 🔭 I’m currently working on **Discord.js**
 
-<a href="https://github.com/ASHgaming80"><img src="https://github-widgetbox.vercel.app/api/profile?username=brblacky&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="brblacky Profile WidgetBox"></a>
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,linux,bash&amp;theme=darkmode" alt="brblacky Skills WidgetBox">
+- 🌱 I’m currently learning **Python, discord.js**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
+- 👨‍💻 All of my projects are available at [ASHgaming80.github.io/portfolio/#home](ASHgaming80.github.io/portfolio/#home)
 
-<a href="https://www.github.com/ASHgaming80"><img src="https://komarev.com/ghpvc/?username=brblacky&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="ASH github profile views" /></a>
-<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00ff99&logo=linux&color=161c1c" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
-<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00ff99" /></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=161c1c&logoColor=00ff99" /></a>
+- 📫 How to reach me **ASHgaming80.github.io/portfolio/**
 
-<div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brblacky&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt="brblacky GitHub Stats">
-<span style="display:inline-block;width:2%"></span>
-<img width="49%" src="https://streak-stats.demolab.com/?user=brblacky&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" alt="brblacky GitHub Streak">
-</div>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ashgaming1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashgaming1980" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ashcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashcodez" height="30" width="40" /></a>
+<a href="https://discord.gg/qXbsjy74cQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qXbsjy74cQ" height="30" width="40" /></a>
+</p>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=brblacky&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00ff99&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="brblacky github activity graph">
-
-<br>
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%A4%9D+Get+in+touch!+%F0%9F%A4%9D" alt="Get in touch" />
-
-<a href="mailto:sdipedit@gmail.com"><img width="75" src="https://media4.giphy.com/media/mHzd6Y8fz1pW1JcfXR/200w.webp?cid=ecf05e47hsrlbsl1zm0w72gijhzk11tg0djsf119lcejgz2w&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="brblacky on Gmail"></a>
-<a href="https://www.youtube.com/c/brblacky"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/youtube.gif" alt="brblacky on Youtube"></a>
-<a href="https://twitter.com/br_blacky"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/twitter.gif" alt="brblacky on Twitter"></a>
-<a href=https://discord.com/users/959276033683628122><img width="75" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="brblacky on Discord"></a>
-
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=235&repeat=false&lines=%E2%AD%90+Donate+%E2%AD%90" alt="Donate" />
-<br>
-<a href="https://paypal.me/sdip521"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/paypal.png" alt="Donate with Paypal"></a>
 
-
-<details><summary><strong>🗲 Lightning 🗲</strong></summary>
-<br>
-<strong><a href="https://getalby.com/p/brblacky">sdipedit@gmail.com</a></strong> 
-<br>
-</details>
 
 <br>
 <br>
